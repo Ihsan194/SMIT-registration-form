@@ -1,0 +1,26 @@
+ .left label{
+    color: rgb(74, 74, 224);
+    font-size:  14px;
+    font-weight: 300;
+    font-family: ;
+ }
+ .left select, input{
+   padding: 10px;
+   width: 32.5%;
+ }
+.full textarea, select{
+   padding: 15px;
+   width: 100%;
+}
+.full label{
+   color: rgb(74, 74, 224);
+}
+.main{
+   margin: 80px;
+   padding: 20px;
+}
+#submit{
+   width: 100%;
+   background-color: rgb(84, 84, 222);
+   color: white;
+}
